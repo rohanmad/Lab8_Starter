@@ -10,3 +10,7 @@ is built with full functionality for newer/modern browsers, and still provides a
 website fail. This is where service workers come in, as they also work to keep the website up when there is no internet connection. 
 Service workers help to keep the website content full through caching, which aligns with the implementation idea of graceful degredation. 
 Therefore, since they both work together to keep the website up and running under less than ideal conditions, they are related.
+
+
+## pwa.png
+![pwa](pwa.png)
