@@ -11,10 +11,10 @@ self.addEventListener('install', function (event) {
       //            added to the cache when the ServiceWorker is installed
       return cache.addAll([
         '/',
-        '/index.html',
-        '/assets/styles/main.css',
-        '/assets/scripts/main.js',
-        '/assets/scripts/RecipeCard.js',
+        './index.html',
+        './assets/styles/main.css',
+        './assets/scripts/main.js',
+        './assets/scripts/RecipeCard.js',
         'https://adarsh249.github.io/Lab8-Starter/recipes/1_50-thanksgiving-side-dishes.json',
         'https://adarsh249.github.io/Lab8-Starter/recipes/2_roasting-turkey-breast-with-stuffing.json',
         'https://adarsh249.github.io/Lab8-Starter/recipes/3_moms-cornbread-stuffing.json',
