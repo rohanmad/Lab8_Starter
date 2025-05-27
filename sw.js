@@ -11,7 +11,7 @@ self.addEventListener('install', function (event) {
       //            added to the cache when the ServiceWorker is installed
       return cache.addAll([
         '/',
-        './Lab8_Starter',
+        // './Lab8_Starter',
         './index.html',
         './assets/styles/main.css',
         './assets/scripts/main.js',
