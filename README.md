@@ -1,5 +1,7 @@
 # Lab8-Starter
 
+## Pages website
+https://rohanmad.github.io/Lab8_Starter/
 
 ## How are graceful degradation and service workers related?
 Graceful degredation and service workers are related due to the nature of their implementation. Both graceful degredation and 
